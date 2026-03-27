@@ -136,6 +136,14 @@
     <Text Include="matrix.txt" />
     <Text Include="output.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Nestors\Downloads\Clear_table.gif" />
+    <Image Include="C:\Users\Nestors\Downloads\Create_table.gif" />
+    <Image Include="C:\Users\Nestors\Downloads\Get_value.gif" />
+    <Image Include="C:\Users\Nestors\Downloads\Read_table_from_file.gif" />
+    <Image Include="C:\Users\Nestors\Downloads\Save_table_to_file.gif" />
+    <Image Include="C:\Users\Nestors\Downloads\Set_value.gif" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

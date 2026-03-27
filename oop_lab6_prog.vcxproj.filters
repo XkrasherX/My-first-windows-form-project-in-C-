@@ -32,4 +32,24 @@
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Nestors\Downloads\Save_table_to_file.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Nestors\Downloads\Set_value.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Nestors\Downloads\Get_value.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Nestors\Downloads\Read_table_from_file.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Nestors\Downloads\Clear_table.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Nestors\Downloads\Create_table.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
