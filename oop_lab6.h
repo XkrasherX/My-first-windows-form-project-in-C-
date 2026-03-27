@@ -313,7 +313,7 @@ namespace ooplab6prog {
 			// 
 			this->readToolStripMenuItem->Name = L"readToolStripMenuItem";
 			this->readToolStripMenuItem->ShortcutKeys = static_cast<System::Windows::Forms::Keys>((System::Windows::Forms::Keys::Control | System::Windows::Forms::Keys::O));
-			this->readToolStripMenuItem->Size = System::Drawing::Size(224, 26);
+			this->readToolStripMenuItem->Size = System::Drawing::Size(181, 26);
 			this->readToolStripMenuItem->Text = L"Open";
 			this->readToolStripMenuItem->Click += gcnew System::EventHandler(this, &oop_lab6::readToolStripMenuItem_Click);
 			// 
@@ -321,7 +321,7 @@ namespace ooplab6prog {
 			// 
 			this->writeToolStripMenuItem->Name = L"writeToolStripMenuItem";
 			this->writeToolStripMenuItem->ShortcutKeys = static_cast<System::Windows::Forms::Keys>((System::Windows::Forms::Keys::Control | System::Windows::Forms::Keys::S));
-			this->writeToolStripMenuItem->Size = System::Drawing::Size(224, 26);
+			this->writeToolStripMenuItem->Size = System::Drawing::Size(181, 26);
 			this->writeToolStripMenuItem->Text = L"Save";
 			this->writeToolStripMenuItem->Click += gcnew System::EventHandler(this, &oop_lab6::writeToolStripMenuItem_Click);
 			// 
@@ -329,7 +329,7 @@ namespace ooplab6prog {
 			// 
 			this->exitToolStripMenuItem->Name = L"exitToolStripMenuItem";
 			this->exitToolStripMenuItem->ShortcutKeys = static_cast<System::Windows::Forms::Keys>((System::Windows::Forms::Keys::Alt | System::Windows::Forms::Keys::F4));
-			this->exitToolStripMenuItem->Size = System::Drawing::Size(224, 26);
+			this->exitToolStripMenuItem->Size = System::Drawing::Size(181, 26);
 			this->exitToolStripMenuItem->Text = L"Exit";
 			this->exitToolStripMenuItem->Click += gcnew System::EventHandler(this, &oop_lab6::exitToolStripMenuItem_Click);
 			// 
