@@ -132,8 +132,8 @@ Contributions, issues, and feature requests are welcome! Since this is a learnin
 ---
 
 ## 👤 Author
+**XkrasherX**
 <p>
-  **XkrasherX**
   <a href="https://github.com/XkrasherX">
     <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" />
   </a>
