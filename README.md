@@ -26,10 +26,75 @@ Welcome to my very first **Windows Forms** application! This project marks my st
 ---
 
 ## 📸 Demo & Screenshots
-*Place your application GIF or screenshots here to make it look even better!*
+# 💻 My First Windows Form Project in C#
+
+This repository contains a simple Windows Forms application demonstrating table operations.  
+Below are short animated explanations for each functionality.
+
+---
+
+## 📝 Create Table
+
+**Instruction:** Initialize a new table with the required structure.  
+Follow the steps to set up your table correctly.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Your+App+Screenshot+Here" width="600" alt="App Preview"/>
+  <img src="Create_table.gif" alt="Create Table" width="600"/>
+</p>
+
+---
+
+## 🧹 Clear Table
+
+**Instruction:** Remove all entries from the table to start fresh.  
+Use this before adding new data or testing updates.
+
+<p align="center">
+  <img src="Clear_table.gif" alt="Clear Table" width="600"/>
+</p>
+
+---
+
+## 📂 Read Table from File
+
+**Instruction:** Load an existing table from a saved file.  
+Select the correct file to populate the table with previous data.
+
+<p align="center">
+  <img src="Read_table_from_file.gif" alt="Read Table from File" width="600"/>
+</p>
+
+---
+
+## 🔍 Get Value
+
+**Instruction:** Retrieve a specific value from the table.  
+Use the row and column indices to access the desired cell.
+
+<p align="center">
+  <img src="Get_value.gif" alt="Get Value" width="600"/>
+</p>
+
+---
+
+## ✏️ Set Value
+
+**Instruction:** Update a value in a table cell.  
+Choose the cell and enter the new value to modify the table.
+
+<p align="center">
+  <img src="Set_value.gif" alt="Set Value" width="600"/>
+</p>
+
+---
+
+## 💾 Save Table to File
+
+**Instruction:** Save the current table to a file for later use.  
+Ensure you store your work before closing the application.
+
+<p align="center">
+  <img src="Save_table_to_file.gif" alt="Save Table to File" width="600"/>
 </p>
 
 ---
