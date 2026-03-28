@@ -1,7 +1,7 @@
-# 🖥️ My First Windows Forms Project in C#
+# 🖥️ My First Windows Forms Project in C++
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+  <img src="https://img.shields.io/badge/C++-%23239120.svg?style=for-the-badge&logo=c++&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge"/>
   <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms Badge"/>
@@ -26,7 +26,7 @@ Welcome to my very first **Windows Forms** application! This project marks my st
 ---
 
 ## 📸 Demo & Screenshots
-# 💻 My First Windows Form Project in C#
+# 💻 My First Windows Form Project in C++
 
 This repository contains a simple Windows Forms application demonstrating table operations.  
 Below are short animated explanations for each functionality.
